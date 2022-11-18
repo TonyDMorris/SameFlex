@@ -10,7 +10,7 @@
     "react-infinite-scroller": "^1.2.4",
     "react-pure-lifecycle": "^3.0.0",
     "react-router-dom": "^5.0.0",
-    "react-scripts": "3.0.0",
+    "react-scripts": "5.0.1",
     "shards-react": "^1.0.3"
   },
   "scripts": {
